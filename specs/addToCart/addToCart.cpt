@@ -1,0 +1,28 @@
+# Kullanici giris islemi yapilir
+* "HESABIM" elementi uzerine gelinir
+* "GIRIS YAP" elementine tiklanir
+* "EMAIL INPUT" input alanina "EMAIL" girilir
+* "LOGIN BUTTON" elementine tiklanir
+* "PASSWORD INPUT" input alanina "PASSWORD" girilir
+* "LOGIN EMAIL SELECT" elementine tiklanir
+
+
+# Yonlendirmeden sonra anasayfada kullanici giris isleminin yapildigi dogrulanir
+* "HESABIM TEXT" elementinin "Hesabım" icerdigini kontrol et
+
+# Telefon icin icin arama yapilir
+* "SEARCH INPUT" input alanina "Telefon" girilir
+* "SEARCH BUTTON" elementine tiklanir
+
+# Arama sonucunda ekrana gelen urun listesinden urun secilir
+* "PRODUCT LIST" elementlerinden birine random tiklanir
+
+# Secilen urun icin 2 tane farkli saticin urun secilip sepete eklenir
+* Yeni tabda devam et
+* "ADD TO CART" elementine tiklanir
+* "CLOSE POPUP" elementine tiklanir
+* "ADD ANOTHER SALE TO CART" elementine tiklanir
+
+# Secilen urunun dogru olarak eklendigi sepetim sayfasinda dogrulanir
+* "SHOPPING CART" elementine tiklanir
+* "BASKET ITEM COUNT" elementinin "2" icerdigini kontrol et
